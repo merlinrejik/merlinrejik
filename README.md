@@ -37,7 +37,7 @@ and zero-shot vision — all running fully offline on constrained hardware.
 | Repo | What it is |
 |---|---|
 | [whisperkit-android-pipeline](https://github.com/merlinrejik/whisperkit-android-pipeline) | HuggingFace fine-tuned Whisper → AI Hub → TFLite → QNN on SA8295P |
-| [yolov5-edge-toolkit](https://github.com/merlinrejik/yolov5-edge-toolkit) | Fine-tune · validate · export to TFLite fp16/int8 · deploy on Android |
+| [yolov5-edge-toolkit](https://github.com/merlinrejik/yolov5-edge-pipeline) | Fine-tune · validate · export to TFLite fp16/int8 · deploy on Android |
 
 ---
 
